@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Jin is an undergraduate student at California Institute of Technology and Grinnell College. He studies engineering and applied science at Caltech and physics at Grinnell College. His research interests include computational photography, nonlinear dynamics, chaos theory, computational physics, and quantum computing. 
