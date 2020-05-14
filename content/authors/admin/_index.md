@@ -29,7 +29,7 @@ education:
   courses:
   - course: BS in Engineering and Applied Science
     institution: California Institute of Technology
-    year: 2020-
+    year: 2020-Now
   - course: BA in Physics
     institution: Grinnell College
     year: 2017-2020
