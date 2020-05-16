@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Engineering and Applied Science
+  - course: BS in Information and Data Science
     institution: California Institute of Technology
     year: 2020-Now
   - course: BA in Physics
