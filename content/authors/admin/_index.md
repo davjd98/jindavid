@@ -32,7 +32,7 @@ education:
     year: 2020-Now
   - course: BA in Physics
     institution: Grinnell College
-    year: 2017-2020
+    year: 2017-Now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
