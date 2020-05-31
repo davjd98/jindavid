@@ -21,13 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Photography
-- Nonlinear Dynamics
-- Quantum Computing
+- Neuroscience + AI
+- Dynamical System
+- Computational Physics
 
 education:
   courses:
-  - course: BS in Information and Data Science
+  - course: BS in Computation and Neural System
     institution: California Institute of Technology
     year: 2020-Now
   - course: BA in Physics
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-David Jin is an undergraduate student at California Institute of Technology and Grinnell College. He studies engineering and applied science at Caltech and physics at Grinnell College. His research interests include computational photography, nonlinear dynamics, chaos theory, computational physics, and quantum computing. 
+David Jin is an undergraduate student at California Institute of Technology and Grinnell College. He studies computation and neural system at Caltech and physics at Grinnell College. His research interests include computations in neural and quantum world, dynamical systems, and chaos theory. 
