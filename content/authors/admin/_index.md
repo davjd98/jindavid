@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - degree: BS in Computation and Neural System
+  - course: BS in Computation and Neural System
     institution: California Institute of Technology
     year: 2020-Now
     email: djin at caltech dot edu
-  - degree: BA in Physics
+  - course: BA in Physics
     institution: Grinnell College
     year: 2017-Now
     email: jindavid at grinnell dot edu
@@ -64,3 +64,4 @@ user_groups:
 ---
 
 David Jin is an undergraduate student at California Institute of Technology and Grinnell College. He studies computation and neural system at Caltech and physics at Grinnell College. His research interests include computations in neural and quantum world, dynamical systems, and chaos theory. 
+djin at caltech dot edu
